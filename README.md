@@ -4,7 +4,7 @@ My name is Adrian
 
 ```js 
 const hello = (name) => {
-    return Hey + name
+    return "Hey" + name
 }
 
 ```
